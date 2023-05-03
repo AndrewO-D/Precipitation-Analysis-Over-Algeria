@@ -1,6 +1,6 @@
 # Precipitation-Analysis-Over-Algeria 
-
 ASSIGNMENT QUESTION
+
 For your case study country, download daily data for a period of 10 years and perform the
 following assessments using Python Xarray.
 .Compute the monthly rainfall totals and compute their longterm climatologies for
